@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/School-Student-Admission/static/css/main.e6c13ad2.css",
+    "main.js": "/School-Student-Admission/static/js/main.07ca3c96.js",
+    "static/js/453.bf28a2a1.chunk.js": "/School-Student-Admission/static/js/453.bf28a2a1.chunk.js",
+    "index.html": "/School-Student-Admission/index.html",
+    "main.e6c13ad2.css.map": "/School-Student-Admission/static/css/main.e6c13ad2.css.map",
+    "main.07ca3c96.js.map": "/School-Student-Admission/static/js/main.07ca3c96.js.map",
+    "453.bf28a2a1.chunk.js.map": "/School-Student-Admission/static/js/453.bf28a2a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07ca3c96.js"
+  ]
+}
